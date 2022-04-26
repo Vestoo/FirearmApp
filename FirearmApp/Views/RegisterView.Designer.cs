@@ -1,7 +1,6 @@
-﻿
-namespace FirearmApp
+﻿namespace FirearmApp.Views
 {
-    partial class Form1
+    partial class RegisterView
     {
         /// <summary>
         /// Required designer variable.
@@ -32,10 +31,9 @@ namespace FirearmApp
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.Text = "RegisterView";
         }
 
         #endregion
     }
 }
-
